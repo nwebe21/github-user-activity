@@ -19,9 +19,10 @@ PROJECT URL: [https://github.com/nwebe21/github-user-activity](https://roadmap.s
 pip install -r requirements.txt
 ```
 
-## Command
+## How to Run
 
 1. Run CLI by providing the username as an argument
     ```bash
-    python github-activty.py <username>
+    ## python github-activity.py <username>
+    python github-activty.py nwebe21
     ```
