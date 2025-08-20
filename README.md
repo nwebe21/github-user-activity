@@ -7,7 +7,6 @@ PROJECT URL: [https://github.com/nwebe21/github-user-activity](https://roadmap.s
 
 - Fetch recent GitHub activity for any user
 - Beautiful terminal output with formatted tables
-- Configurable event limit
 - Error handling for network issues and invalid users
 
 ## Installation
