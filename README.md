@@ -1,7 +1,7 @@
 # GitHub Activity CLI
 
 A simple command-line tool to fetch and display recent GitHub user activity.
-PROJECT URL: https://github.com/nwebe21/github-user-activity
+PROJECT URL: [https://github.com/nwebe21/github-user-activity](https://roadmap.sh/projects/github-user-activity)
 
 ## Features
 
